@@ -1,2 +1,3 @@
 folder2/file21
 This is added by master
+This is added by feature1
